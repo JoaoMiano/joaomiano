@@ -2,18 +2,17 @@
 
 💻 Desenvolvedor Full Stack (foco em Front-end)  
 🚀 Experiência sólida com React, TypeScript e Tailwind  
-🔧 Também atuo com Node.js no back-end  
+🔧 Também atuo com Node.js e PostegreSQL no back-end  
 📈 Evoluindo constantemente para me tornar um desenvolvedor full stack completo  
 
-Atualmente trabalho com suporte técnico, o que fortaleceu minha visão prática de resolução de problemas e comunicação — habilidades que levo diretamente para o desenvolvimento.
 
 ---
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](SEU_LINK_PORTFOLIO)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-miano/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://joaomiano.com.br/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_miano_?igsh=Yml0cjI4ajR6anYz)
 
 ---
 
