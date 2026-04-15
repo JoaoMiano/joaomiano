@@ -31,20 +31,8 @@
 ## 📊 GitHub Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaomiano&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiano&layout=compact&theme=radical)
 
----
-
-## 📈 Mini Dashboard
-
-- ⭐ Total de Stars: **--**
-- 🔁 Total de Commits: **--**
-- 🔀 Pull Requests: **--**
-- 📦 Repositórios: **--**
-- 📊 Score do Perfil: **--**
-
-> *Obs: você pode automatizar esses dados com ferramentas como `github-readme-streak-stats` ou APIs do GitHub.*
 
 ---
 
